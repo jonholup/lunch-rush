@@ -1,11 +1,12 @@
 import firebase from 'firebase';
 
 const config = {
-  apiKey: 'AIzaSyCwjdb6Vhsu04iONjMxCNY-Eo_aCAXoY-c',
-  authDomain: 'ask-the-audience.firebaseapp.com',
-  databaseURL: 'https://ask-the-audience.firebaseio.com',
-  storageBucket: 'ask-the-audience.appspot.com',
-  messagingSenderId: '473436394005'
+  apiKey: 'AIzaSyD46mhjtsaa04UtT36-D7hUDB0FBdpme_I',
+  authDomain: 'femexample-54f76.firebaseapp.com',
+  databaseURL: 'https://femexample-54f76.firebaseio.com',
+  projectId: 'femexample-54f76',
+  storageBucket: 'femexample-54f76.appspot.com',
+  messagingSenderId: '571272761064'
 };
 
 firebase.initializeApp(config);
